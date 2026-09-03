@@ -21,5 +21,8 @@ A custom-built Splunk SIEM dashboard designed to monitor, visualize, and analyze
 - Select Submit
 - Note: For all future panel, set the time to time_range for consistency.
 ## Project Demo
+
+<img width="1920" height="1080" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/e07f7b06-ad67-426f-acad-c7acd83e2277" />
+
   
 
