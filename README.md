@@ -1,4 +1,4 @@
-# splunk-siem-dashboard
+# Splunk-siem-dashboard
 ## SIEM dashboard built in Splunk to monitor SSH login activity
 
 A custom-built Splunk SIEM dashboard designed to monitor, visualize, and analyze SSH login activity, detect failed login attempts, and identify suspicious or unauthorized access patterns in real time. Developed using Splunk's Search Processing Language (SPL) to query, correlate, and present security log data through interactive dashboard panels.
