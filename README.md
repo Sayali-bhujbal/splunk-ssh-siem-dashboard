@@ -12,7 +12,9 @@ A custom-built Splunk SIEM dashboard designed to monitor, visualize, and analyze
 # Objective
 
 ## Lab Set up
-- Task0: Setting up Time Range
+- Task0: Splunk main interface
+- Splunk Dashboard creation
+- Setting up Time Range
 - Add Time Range Button
 - Click on Add Input
 - Select Time and click on pencil icon
@@ -100,7 +102,7 @@ A custom-built Splunk SIEM dashboard designed to monitor, visualize, and analyze
   <img width="1917" height="872" alt="Screenshot 2026-09-03 155149" src="https://github.com/user-attachments/assets/c4135db8-152b-4e50-b3d8-fc383c49a644" />
 
 # Task2: Login Activity Trends
-## Goal: Visualize login behavior over time and detect spikes.
+## Goal: Visualize login behaviour over time and detect spikes.
 # 1. Failed Logins by username
 - Click on Add Panel
 
@@ -120,11 +122,11 @@ A custom-built Splunk SIEM dashboard designed to monitor, visualize, and analyze
 # 2. Possible Brute Force
 - Click on Add Panel
 
-- Under New, choose Statstics Table
+- Under New, choose Statistics Table
 
 - Use Shared Time Picker time_range
 
-- Set Content Title to Possible Brute Force b IP Address
+- Set Content Title to Possible Brute Force by IP Address
 
 - Enter the Search String as below:
   
