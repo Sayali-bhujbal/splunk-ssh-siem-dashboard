@@ -155,7 +155,10 @@ A custom-built Splunk SIEM dashboard designed to monitor, visualize, and analyze
 ## Overview of all Dashboard Image
 <img width="1917" height="927" alt="Screenshot 2026-09-03 162811" src="https://github.com/user-attachments/assets/ccdbb767-e316-403b-8f23-c96350abdf63" />
 
-  
+## Conclusion
+This project demonstrates how Splunk can be used as a SIEM to monitor and analyze SSH authentication logs. The dashboard helps identify failed and successful login attempts, suspicious activities, and potential brute-force attacks through SPL queries and visualizations.
+The dashboard combines real-time monitoring, statistical analysis, alerts, and geo-location visualization to help identify suspicious authentication behavior efficiently.
+Overall, this project provided practical experience in log analysis, security monitoring, SPL, dashboard creation, and basic threat detection.
 
 
 
